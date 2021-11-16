@@ -1,2 +1,2 @@
-# wish-tracker
-Una guía en español para el contador de deseos de GenshinUtils
+# ¿Cómo-usar-el-contador-de-deseos-de-GenshinUtils?
+Test
