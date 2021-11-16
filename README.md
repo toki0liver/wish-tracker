@@ -1,4 +1,4 @@
-# ¿Cómo usar el-contador de deseos de GenshinUtils?
+# ¿Cómo usar el contador de deseos de GenshinUtils?
 ### Al usarse por primera vez
 Ve a Discord y escribe g.gacha, debería aparecer un mensaje con tres reacciones o botones
 
@@ -28,3 +28,4 @@ Ahora, esta es la parte donde debes tener cuidado, así que tómate tu tiempo. E
 
 <img src="https://i.imgur.com/kFlnOrf.png" width="800">
 
+### Esta guía se actualizará en cuanto descifre los pasos siguientes.
